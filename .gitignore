@@ -1,1 +1,20 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.bak
+
+# MATLAB generated data files (optional – uncomment to ignore)
+#*.mat
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Temporary figures or animations (optional)
+*.fig
+*.mp4
+
+# IDE / system trash
+*.swp
+*.swo
 
